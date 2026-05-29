@@ -8,7 +8,7 @@ public class Student {
         System.out.println("My Course is: " + course);
         System.out.println("My Roll Number is: " + rollno);
         System.out.println("Thanks for using My Application");
-        System.out.println("Thanks for teaching me ");
+        System.out.println("Thanks for teaching yash ");
         
     }
 }
